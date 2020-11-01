@@ -6,4 +6,10 @@
   <url>
     <loc>https://eugen.podaru.dev/about</loc>
   </url>
+  <url>
+    <loc>https://eugen.podaru.dev/blog</loc>
+  </url>
+  <url>
+    <loc>https://eugen.podaru.dev/blog/azure-functions-startup-trigger</loc>
+  </url>
 </urlset>
